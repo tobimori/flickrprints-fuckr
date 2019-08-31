@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Flickr Prints Fucker
+// @name         Flickr Prints Fuckr
 // @namespace    https://github.com/tobimori/
 // @version      1.0
 // @description  Removes Flickr Prints advertising button in navbar and picture viewer
