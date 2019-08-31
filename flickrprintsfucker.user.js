@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  Removes Flickr Prints advertising button in navbar and picture viewer
 // @author       tobimori
-// @downloadURL  https://raw.githubusercontent.com/tobimori/flickrprints-fucker/master/flickrprintsfucker.js
-// @updateURL    https://raw.githubusercontent.com/tobimori/flickrprints-fucker/master/flickrprintsfucker.js
+// @downloadURL  https://raw.githubusercontent.com/tobimori/flickrprints-fucker/master/flickrprintsfucker.user.js
+// @updateURL    https://raw.githubusercontent.com/tobimori/flickrprints-fucker/master/flickrprintsfucker.user.js
 // @match        https://*.flickr.com/*
 // @require 	 https://code.jquery.com/jquery-3.3.1.min.js
 // ==/UserScript==
